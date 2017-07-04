@@ -1,6 +1,6 @@
 {
   "name": "postcss-clear-fix",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A PostCSS plugin to add clearfix in one line.",
   "main": "index.js",
   "repository": {

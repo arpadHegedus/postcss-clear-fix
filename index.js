@@ -1,6 +1,6 @@
 /**
  * POSTCSS CLEAR FIX
- * A postcss plugin to add position, top, right, bottom and left properties in one line
+ * A PostCSS plugin to add clearfix in one line
  * version          1.0.0
  * author           Arpad Hegedus <hegedus.arpad@gmail.com>
  */
