@@ -1,0 +1,32 @@
+{
+  "name": "postcss-clear-fix",
+  "version": "1.0.0",
+  "description": "A PostCSS plugin to add clearfix in one line.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arpadHegedus/postcss-clear-fix.git"
+  },
+  "keywords": [
+    "postcss",
+    "clearfix",
+    "plugin"
+  ],
+  "author": {
+    "name": "Arpad Hegedus",
+    "email": "hegedus.arpad@gmail.com",
+    "web": "http://arpadhegedus.com"
+  },
+  "maintainers": [
+    {
+      "name": "Arpad Hegedus",
+      "email": "hegedus.arpad@gmail.com",
+      "web": "http://arpadhegedus.com"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arpadHegedus/postcss-clear-fix/issues"
+  },
+  "homepage": "https://github.com/arpadHegedus/postcss-clear-fix#readme"
+}
